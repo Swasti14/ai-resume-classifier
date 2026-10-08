@@ -1,0 +1,27 @@
+ALEX CHEN
+Email: alex.chen@email.com | Phone: +1 (555) 456-7890 | LinkedIn: linkedin.com/in/alexchen-dev
+Location: Austin, TX | GitHub: github.com/alexchen
+
+SUMMARY
+Motivated Junior Software Engineer with 10 months of internship experience building backend microservices and RESTful APIs using Python, FastAPI, and SQL databases.
+
+EDUCATION
+B.Tech in Information Technology (2020 - 2024)
+Texas A&M University
+CGPA: 8.1 / 10.0
+
+SKILLS
+• Languages: Python, JavaScript, SQL
+• Frameworks: FastAPI, Flask, Express
+• Databases: PostgreSQL, SQLite
+• Tools: Git, Docker, Postman, Linux
+
+EXPERIENCE
+Backend Engineering Intern | CloudSync Technologies
+July 2023 - April 2024 (10 months internship experience)
+• Developed 12+ RESTful API endpoints in FastAPI with automated Pydantic request validation.
+• Wrote SQL migration scripts and indexed PostgreSQL database tables to optimize response time by 28%.
+
+PROJECTS
+Cloud Task Orchestration Service
+• Engineered an asynchronous task runner in Python utilizing Redis and Docker containers.

@@ -1,0 +1,36 @@
+PRIYA PATEL
+Email: priya.patel@email.com | Phone: +1 (555) 345-6789 | LinkedIn: linkedin.com/in/priyapatel-ai
+Location: New York, NY | GitHub: github.com/priyapatel-tech
+
+OBJECTIVE
+Passionate Data Science graduate seeking Machine Learning and Data Analyst opportunities to apply predictive modeling, deep learning, and exploratory data analysis.
+
+EDUCATION
+B.Sc in Data Science & Artificial Intelligence (2020 - 2024)
+New York University
+CGPA: 8.6 / 10.0
+
+TECHNICAL SKILLS
+• Languages: Python, SQL
+• Machine Learning & AI: Machine Learning, Scikit-learn, TensorFlow, PyTorch, Deep Learning, NLP
+• Data Analytics: Pandas, NumPy, Matplotlib, Seaborn, Statistics, Excel
+• Developer Tools: Git, Jupyter Notebook, VS Code
+
+EXPERIENCE
+Machine Learning Research Intern | HealthTech AI Labs
+September 2023 - May 2024 (1 year of experience)
+• Preprocessed over 50,000 anonymized clinical records with Pandas and NumPy.
+• Trained classification algorithms (Random Forest, XGBoost) to predict patient hospital readmission.
+• Generated data visualizations with Matplotlib and Seaborn for medical research publications.
+
+KEY PROJECTS
+Clinical Diagnosis Neural Network
+• Designed deep learning convolutional architecture for image classification in PyTorch.
+• Achieved 92.4% validation accuracy on medical imaging benchmark.
+
+Stock Market Trend Sentiment Engine
+• Scraped financial news headlines and implemented NLP sentiment classification pipeline with Scikit-learn and NLTK.
+
+CERTIFICATIONS
+• Coursera Deep Learning Specialization by Andrew Ng
+• HackerRank Problem Solving Gold Badge

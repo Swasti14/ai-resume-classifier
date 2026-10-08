@@ -1,0 +1,38 @@
+RAHUL SHARMA
+Email: rahul.sharma@email.com | Phone: +1 (555) 234-8901 | LinkedIn: linkedin.com/in/rahul-sharma-data
+Location: San Francisco, CA | GitHub: github.com/rahul-sharma
+
+PROFESSIONAL SUMMARY
+Analytical and detail-oriented Data Analyst with 1.5 years of hands-on experience querying complex relational databases, creating interactive Power BI dashboards, and applying statistical models in Python. Proven track record of improving reporting efficiency by 35%.
+
+EDUCATION
+B.Tech in Computer Science and Engineering (2020 - 2024)
+University of California, Berkeley
+CGPA: 8.9 / 10.0
+
+TECHNICAL SKILLS
+• Programming: Python, SQL (PostgreSQL, MySQL), R
+• BI & Analytics Tools: Power BI, Tableau, Microsoft Excel (Advanced Pivot Tables, VLOOKUP, DAX)
+• Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+• Practices: Statistical Analysis, Exploratory Data Analysis (EDA), Git, Agile
+
+EXPERIENCE
+Data Analyst Intern | FinTech Analytics Global
+June 2023 - Present (1.5 years experience)
+• Engineered automated daily reporting pipelines in SQL and Python, reducing manual effort by 15 hours weekly.
+• Designed executive Power BI dashboards monitoring $4.2M monthly transactions and conversion funnels.
+• Executed statistical hypothesis testing (A/B testing) to evaluate marketing campaign performance.
+
+KEY PROJECTS
+Executive Sales KPI Dashboard
+• Built multi-page dynamic Power BI dashboard integrated with SQL Server database.
+• Modeled DAX measures for Year-over-Year revenue growth and customer retention rates.
+
+Customer Churn Prediction Model
+• Developed end-to-end machine learning classification pipeline with Pandas, NumPy, and Scikit-learn.
+• Achieved 89% precision score in identifying at-risk subscription users.
+
+CERTIFICATIONS
+• Microsoft Certified: Power BI Data Analyst Associate
+• IBM Data Science Professional Certificate
+• HackerRank SQL Gold Badge
